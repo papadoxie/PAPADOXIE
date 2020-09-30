@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am a Computer Science Student interested in Computer Security.\
-🔭Working on:\
-+ Binary Exploits\
-+ Memory Exploits\
+🔭Working on:
++ Binary Exploits
++ Memory Exploits
 + Hacking Challenges
 
 <!--
