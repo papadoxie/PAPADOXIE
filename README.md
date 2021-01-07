@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![THM](data:https://tryhackme-badges.s3.amazonaws.com/papadoxie.png)
+![THM](https://tryhackme-badges.s3.amazonaws.com/papadoxie.png)
