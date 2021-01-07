@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script src="https://tryhackme.com/badge/173949"\></script\>
+<script src="https://tryhackme.com/badge/173949" \></script\>
