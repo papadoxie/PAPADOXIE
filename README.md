@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![THM](https://tryhackme-badges.s3.amazonaws.com/papadoxie.png)
+[<img align="left" alt="papadoxie | Try Hack Me" width=22px src="https://tryhackme.com/badge/173949">]
