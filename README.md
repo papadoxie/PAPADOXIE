@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 [![Nofil's github stats](https://github-readme-stats.vercel.app/api?username=PAPADOXIE&theme=radical)](https://github.com/PAPADOXIE/github-readme-stats)
 
-![Nofil's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PAPADOXIE&theme=radical)
+![Nofil's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PAPADOXIE&theme=radical&layout=compact)
 
 <code><img src="https://tryhackme-badges.s3.amazonaws.com/papadoxie.png?raw=true" alt="TryHackMe"></code>
