@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```js script
-  <script src="https://tryhackme.com/badge/173949"></script>
-```
+<html>
+<script src="https://tryhackme.com/badge/173949"></script>
+</html>
