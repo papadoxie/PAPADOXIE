@@ -2,7 +2,6 @@
 I am a Computer Science Student interested in Computer Security.\
 🔭Working on:
 + Binary Exploits
-+ Memory Exploits
 + CTFs
 + Hacking Challenges
 
