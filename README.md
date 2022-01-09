@@ -1,9 +1,9 @@
 ### Hi there 👋
 I am a Computer Science Student interested in Computer Security.\
 🔭Working on:
-+ Binary Exploits
++ Exploit Development
 + CTFs
-+ Hacking Challenges
++ OS Development
 
 <!--
 **PAPADOXIE/PAPADOXIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
