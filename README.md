@@ -2,7 +2,7 @@
 I am a Computer Science Student interested in Computer Security.\
 🔭Working on:
 + Exploit Development
-+ CTFs
++ Security Research
 + OS Development
 
 <!--
