@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Nofil's github stats](https://github-readme-stats.vercel.app/api?username=PAPADOXIE&theme=radical&show_icons=true)](https://github.com/PAPADOXIE/github-readme-stats)
-
 ![Nofil's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PAPADOXIE&theme=radical&layout=compact)
