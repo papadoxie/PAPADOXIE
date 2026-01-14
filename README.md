@@ -81,11 +81,11 @@ Features:
 
 <div align="center">
 
-![Nofil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=papadoxie&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
+![Nofil's GitHub Stats](https://readme-stats-fast.vercel.app/api?username=papadoxie&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=papadoxie&theme=radical&layout=compact&hide_border=true&cache_seconds=1800)
+![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=papadoxie&theme=radical&layout=compact&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=papadoxie&theme=radical&hide_border=true&cache_seconds=1800)
+![GitHub Streak](https://readme-stats-fast.vercel.app/?user=papadoxie&theme=radical&hide_border=true&cache_seconds=1800)
 
 </div>
 
